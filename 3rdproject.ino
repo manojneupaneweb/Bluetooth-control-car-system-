@@ -5,7 +5,7 @@
 #define IN2 3  // Left motor backward
 #define IN3 4  // Right motor forward
 #define IN4 5  // Right motor backward
-
+ 
 // Define light pins
 #define LEFT_LIGHT 6   // Left indicator light
 #define RIGHT_LIGHT 7  // Right indicator light
